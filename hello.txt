@@ -11,8 +11,5 @@ hello atdongkaiwei hello git!
 hello atdongkaiwei hello git!
 hello atdongkaiwei hello git!
 hello atdongkaiwei hello git!
-<<<<<<< HEAD
 hello atdongkaiwei hello git! master set
-=======
 hello atdongkaiwei hello git!hot-fix test
->>>>>>> hot-fix
